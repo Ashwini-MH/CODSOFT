@@ -141,16 +141,6 @@ header{
     color: var(--white);
 }
 
-.icons::after{
-    position: absolute;
-    content: "";
-    top: -22rem;
-    left: 15px;
-    height: 15rem;
-    width: 2px;
-    background-color: var(--white);
-}
-
 .content{
     margin-bottom: 10rem;
     margin-left: 80px;
